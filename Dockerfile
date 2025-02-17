@@ -45,6 +45,8 @@ ARG USE_RERANKING_MODEL
 ARG UID
 ARG GID
 
+ENV NODE_OPTIONS=--max-old-space-size=4096
+
 ## Basis ##
 ENV ENV=prod \
     PORT=8080 \
