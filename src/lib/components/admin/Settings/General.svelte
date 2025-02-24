@@ -581,7 +581,7 @@
 
 					<div class="mb-2.5 w-full justify-between">
 						<div class="flex w-full justify-between">
-							<div class=" self-center text-xs font-medium">{$i18n.t('WebUI URL')}</div>
+							<div class=" self-center text-xs font-medium">{$i18n.t('URL')}</div>
 						</div>
 
 						<div class="flex mt-2 space-x-2">
